@@ -1,4 +1,4 @@
-Zalma resolusi :
+Zalma's resolusi :
 - understand how about machine Learning concept
 - understand how about Data Science concept
 - understand how about Data mining concept
